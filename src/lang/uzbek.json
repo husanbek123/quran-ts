@@ -1,0 +1,15 @@
+{
+  "revelationMeccan": "Makka",
+  "revelationMedinan": "Madina",
+  "pages": {
+    "MainPage": "Bosh Saxifa",
+    "SurahsPage": "Suralar",
+    "PrayerTimes": "Namoz Vaqtlari"
+  },
+  "settingsModal": {
+    "SelectAuthor": "Muallifni tanlang:",
+    "SelectArabicTextSize": "Arab tilini hajmini tanlang:",
+    "SelectTranslation'sSize": "Tarjimani hajmini tanlang:",
+    "SelectLanguage": "Tarjimani tilini tanlang:"
+  }
+}

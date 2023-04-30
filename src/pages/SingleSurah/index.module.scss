@@ -1,0 +1,19 @@
+@use "../../styles/mixins";
+@import "../../styles/variables";
+
+.single_surah {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  h2 {
+    color: $colorGreen;
+    // @include mixins.Green;
+  }
+
+  .surahs {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 30px;
+  }
+}

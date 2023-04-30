@@ -1,0 +1,8 @@
+.surahs {
+  //   display: flex;
+  //   justify-content: space-between;
+  //   flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 22%));
+  gap: 22px 4%;
+}
